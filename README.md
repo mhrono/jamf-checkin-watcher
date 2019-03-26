@@ -1,1 +1,1 @@
-# macos-management
+# macOS Management
