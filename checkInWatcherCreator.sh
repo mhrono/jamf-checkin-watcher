@@ -6,6 +6,8 @@
 ## Set your org name here (no spaces)
 orgName=""
 
+if [[ ! $orgName ]]; then echo "Org name not set, exiting!"; exit 1; fi
+
 #### DO NOT EDIT BELOW THIS LINE ####
 
 ## Make the directory structure for your org if it doesn't already exist
